@@ -9,7 +9,7 @@ module.exports = {
         'white-transparency': 'rgba(255, 255, 255, 0.205)'
       },
       spacing:{
-        '432': '432px'
+        'header-size': '460px'
       }
     },
   },
